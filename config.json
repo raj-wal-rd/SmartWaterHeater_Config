@@ -1,9 +1,10 @@
 {
   "heater": "ON",
+    "Name": "RAJKUMAR",
   "setTemperature": 55,
   "currentTemperature": 32,
   "mode": "AUTO",
   "fanSpeed": 2,
   "firmwareVersion": "3.0.78"
-  "Name": "RAJKUMAR"
+
 }
